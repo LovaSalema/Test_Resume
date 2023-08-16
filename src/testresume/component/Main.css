@@ -1,0 +1,24 @@
+.divform{
+    padding: 10px;
+    border: 1px solid #E3E3E4;
+    height: 48px;
+    position: relative;
+    border-radius: 4px;
+    display: flex;
+}
+.divform>label{
+    position: absolute;
+    top: -15px;
+    left: 20px;
+    background-color: #FFF;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 14px;
+    padding: 5px;
+
+}
+.divform>input{
+    outline: none;
+    border-color:transparent;
+    width: 100%;
+}
